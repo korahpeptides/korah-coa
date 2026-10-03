@@ -1,0 +1,9 @@
+[
+  {
+    "batch": "KP-0001",
+    "peptide": "Example Peptide (delete this row)",
+    "test_date": "2026-10-01",
+    "lab": "Example Lab",
+    "file": "KP-0001.pdf"
+  }
+]
