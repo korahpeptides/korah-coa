@@ -27,7 +27,7 @@
   { "batch": "KP-0026", "peptide": "SS-31 50 mg", "test_date": "2026-07-13", "lab": "Testides", "file": "KP-0026.pdf" },
   { "batch": "KP-0027", "peptide": "Tesamorelin 20 mg", "test_date": "2026-08-10", "lab": "Testides", "file": "KP-0027.pdf" },
   { "batch": "KP-0028", "peptide": "Retatrutide", "test_date": "2026-08-27", "lab": "Janoshik", "file": "KP-0028.pdf" },
-  { "batch": "KP-0029", "peptide": "KPV", "test_date": "2026-10-07", "lab": "Testides", "file": "KP-0029.png" },
+  { "batch": "KP-0029", "peptide": "KPV", "test_date": "2026-10-07", "lab": "Testides", "file": "KP-0029.pdf" },
   { "batch": "KP-0030", "peptide": "Retatrutide 30 mg", "test_date": "2026-07-27", "lab": "Janoshik", "file": "KP-0030.pdf" },
   { "batch": "KP-0031", "peptide": "CJC + IPA 10 mg", "test_date": "2026-09-24", "lab": "Peptide Test Canada", "file": "KP-0031.pdf" },
   { "batch": "KP-0032", "peptide": "Healing Blend 20 mg", "test_date": "2026-09-24", "lab": "Peptide Test Canada", "file": "KP-0032.pdf" },
