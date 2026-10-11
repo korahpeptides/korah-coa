@@ -33,7 +33,8 @@
   { "batch": "KP-0032", "peptide": "Healing Blend 20 mg", "test_date": "2026-09-24", "lab": "Peptide Test Canada", "file": "KP-0032.pdf" },
   { "batch": "KP-0033", "peptide": "Nad+ 1000 mg", "test_date": "2026-09-21", "lab": "Peptide Test Canada", "file": "KP-0033.pdf" },
   { "batch": "KP-0034", "peptide": "SS-31 mg", "test_date": "2026-09-21", "lab": "Peptide Test Canada", "file": "KP-0034.pdf" },
-  { "batch": "KP-0035", "peptide": "TA-1 10 mg", "test_date": "2026-09-21", "lab": "Peptide Test Canada", "file": "KP-0035.pdf" }
+  { "batch": "KP-0035", "peptide": "TA-1 10 mg", "test_date": "2026-09-21", "lab": "Peptide Test Canada", "file": "KP-0035.pdf" },
+  { "batch": "KP-0036", "peptide": "5-Amino-1MQ 10 mg", "test_date": "2026-09-29", "lab": "Peptide Test Canada/Testides", "file": "KP-0036.pdf" }
 
 
 ]
